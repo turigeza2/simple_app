@@ -14,7 +14,8 @@ and open the template in the editor.
         
         // put your code here
         ?>
-        Na bazdmeg
+        Ne beszelj csunyan
+        
         these are new lines 
     </body>
 </html>
